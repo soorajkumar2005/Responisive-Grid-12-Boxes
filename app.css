@@ -1,20 +1,18 @@
-*{
-    margin: 0px;
-    padding: 0px;
+* {
+  margin: 0px;
+  padding: 0px;
 }
-h1{
-    text-align: center;
-    margin-bottom: 50px !important;
-    color: indigo !important;
-    font-weight: bolder !important;
+h1 {
+  text-align: center;
+  margin-bottom: 50px !important;
+  color: indigo !important;
+  font-weight: bolder !important;
 }
-.row>div{
-    border: 1px solid white;
-    height: 100px;
-    background-color: indigo !important;
-    color: white;
-    font-weight: bolder;
-    font-size: larger;
-    text-align: center;
-
-}
+/* .row > div {
+  border: 1px solid white;
+  background-color: indigo;
+  color: white;
+  font-weight: bolder;
+  font-size: larger;
+  text-align: center;
+} */
