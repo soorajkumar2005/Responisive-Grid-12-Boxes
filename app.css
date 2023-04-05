@@ -5,7 +5,7 @@
 h1 {
   text-align: center;
   margin-bottom: 50px !important;
-  color: orange !important;
+  color: dodgerblue !important;
   font-weight: bolder !important;
   text-shadow: 2px 2px  lightgray !important;
   font-weight: bolder !important;
@@ -18,3 +18,11 @@ h1 {
   font-size: larger;
   text-align: center;
 } */
+.h2{
+  text-align: center;
+  color: #444 !important;
+
+}
+.description{
+  text-align: justify;
+}
