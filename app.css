@@ -10,14 +10,6 @@ h1 {
   text-shadow: 2px 2px  lightgray !important;
   font-weight: bolder !important;
 }
-/* .row > div {
-  border: 1px solid white;
-  background-color: indigo;
-  color: white;
-  font-weight: bolder;
-  font-size: larger;
-  text-align: center;
-} */
 .h2{
   text-align: center;
   color: #444 !important;
@@ -25,4 +17,14 @@ h1 {
 }
 .description{
   text-align: justify;
+}
+
+.image-main{
+  border: 2px solid red;
+  width: 100%;
+  height: 200px;
+}
+.image-main>img{
+  width: 100%;
+  height: 100%;
 }
